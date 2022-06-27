@@ -16,6 +16,7 @@
     Edit the codes and let me know if you have more knowledge or better ideas.
     </p>
 </div>
+<hr />
 <div>
   <p>In the project directory, you can run:</p>
   <pre>npm start</pre>
