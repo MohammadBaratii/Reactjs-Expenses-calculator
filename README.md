@@ -1,9 +1,6 @@
 <div>
   <img src="./src/img/page.PNG" />
-  <h2>
-    <a href="https://mohammadbaratii.github.io/Reactjs-Expenses-calculator/">watch online</a>
-  </h2>
-  <h1>Expenses calculator</h1>
+  <h1>Expenses calculator <a href="https://mohammadbaratii.github.io/Reactjs-Expenses-calculator/">(watch online)</a></h1>
   <p>
     I made it <strong>based on</strong>
     <a
