@@ -1,5 +1,8 @@
 <div>
   <img src="./src/img/page.PNG" />
+  <h2>
+    <a href="https://mohammadbaratii.github.io/Reactjs-Expenses-calculator/">watch online</a>
+  </h2>
   <h1>Expenses calculator</h1>
   <p>
     I made it <strong>based on</strong>
@@ -9,6 +12,9 @@
     </a>
     tutorial, but i didn't just copy and paste the codes.
   </p>
+    <p>
+    Edit the codes and let me know if you have more knowledge or better ideas.
+    </p>
 </div>
 <div>
   <p>In the project directory, you can run:</p>
@@ -22,8 +28,4 @@
     The page will reload if you make edits. You will also see any lint errors in
     the console.
   </p>
-  <p>
-    Edit the codes and let me know if you have more knowledge or better ideas.
-  </p>
-  <a href="https://mohammadbaratii.github.io/Reactjs-Expenses-calculator/">watch online</a>
 </div>
